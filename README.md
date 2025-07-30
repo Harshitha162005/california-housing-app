@@ -56,4 +56,7 @@ This project is open source and available under the MIT License. (Modify as need
 
 ## Contact
 
-For questions or feedback, please contact [Your Name or Email].
+For questions or feedback, 
+please contact 
+Harshitha D k
+9008016268
