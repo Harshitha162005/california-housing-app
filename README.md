@@ -58,5 +58,5 @@ This project is open source and available under the MIT License. (Modify as need
 
 For questions or feedback, 
 please contact 
-Harshitha D k
+Harshitha D K
 9008016268
